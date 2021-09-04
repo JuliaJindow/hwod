@@ -1,0 +1,16 @@
+.heading {
+font-size: 23px;
+width: 100%;
+margin: 0px;
+color: rgb(255, 0, 128);
+}
+
+.anchor {
+    font-weight: bold;
+    color: black;
+    background-color: red;
+    width: fit-content;
+    height: 40px;
+    border-radius: 20px;
+    margin-bottom: 700px;
+}
